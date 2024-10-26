@@ -1,0 +1,11 @@
+#headernaglowek{
+    padding: 15px;
+    color:black;
+    background-color:gray;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: aqua;
+    font-size: 60px
+}
